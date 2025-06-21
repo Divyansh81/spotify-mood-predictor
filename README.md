@@ -97,17 +97,7 @@ Use the sliders to adjust audio features and click **Predict Mood** to see if th
 - joblib  
 - streamlit
 
-Install them all via:
 
-```bash
-pip install -r requirements.txt
-```
-
-*Optionally, create a `requirements.txt` by running:*
-
-```bash
-pip freeze > requirements.txt
-```
 
 ---
 
