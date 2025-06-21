@@ -119,11 +119,6 @@ Contributions, ideas, and pull requests are welcome!
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
-Feel free to connect: [your.email@example.com]
+Made with ❤️ by Divyansh Kaul
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
