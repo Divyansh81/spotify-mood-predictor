@@ -57,6 +57,8 @@ Use the sliders to adjust audio features and click **Predict Mood** to see if th
 ## 📸 Screenshot of the App
 ![alt text](1-1.png)
 
+### 2.
+
 ![alt text](2-1.png)
 
 ---
